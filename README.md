@@ -1,40 +1,54 @@
 # Leica M Darkroom
 
+[English](#english) · [繁體中文](#繁體中文) · [日本語](#日本語)
+
 ## English
 
-### Leica M Darkroom | An offline darkroom for Android
+### An Android darkroom inspired by the Leica M9
 
-Pick a photo from your library and try a Leica M9-inspired color treatment or a MONOPAN-style black-and-white look. Choose from five modes: FAST, HIGH, FULL, LUT, and MONO. Adjust the vignette, compare the result with the original, and save a separate copy. All processing takes place on your phone and works offline.
+**Leica M Darkroom** is an offline photo editor and RAW developer for Android. Its color rendering takes inspiration from the Leica M9’s CCD. I’ve always liked how those photographs look in everyday light, from the color of a painted sign to skin tones by a window and the detail left in the shadows of a narrow street.
 
-Version 1.1.0 introduces a charcoal interface, F5.6 lettering, and a new geometric M icon. It supports English, Traditional Chinese, Simplified Chinese, and Japanese on ARM64 devices running Android 10 or later.
+I’m Marvin. I started working in game development in the late 1990s and later contributed to the development and interface design of Weico, a third-party client for Sina Weibo. I’ve always loved shooting film. I wanted an app that let me take my time with the photos I’d already made, picking a frame and deciding how I wanted its light and color to look.
 
-### About the developer
+- **M9-inspired color and monochrome.** Choose M9 Fast, High, or Full, or use the built-in Daylight LUT or MONOPAN black-and-white mode. The bundled color models run directly on your phone. You can develop and export photos offline without uploading them.
+- **Import RAW files from a range of cameras.** Open RAW, JPEG, and PNG files through Android’s file picker. The RAW decoder was tested with samples in DNG, ARW, NEF, CR2, CR3, RAF, RW2, and ORF. Compatibility depends on the camera model and compression.
+- **Load your own LUTs for film-inspired looks.** Choose **LUT → Load .cube** on the home screen to apply an sRGB-compatible 3D LUT to previews and exports. If you’d like to try a few film looks, start here. [Download xMosaique’s 18 LUTs (ZIP)](https://xmosaique.com/assets/luts/xmosaique-luts.zip)
+- **Crop and make basic corrections.** Crop freely or choose 1:1, 4:5, or 16:9. Adjust exposure, contrast, highlights, shadows, temperature, tint, saturation, sharpness, and texture. Add soft light or a vignette when the photo calls for it.
+- **Compare with the original and pick up where you left off.** Switch between the original and the edited preview, save a separate copy, or reopen a project from your editing history.
 
-I’m Marvin. I started working in game development in the late 1990s and later contributed to the development and interface design of Weico, a third-party client for Sina Weibo. I love shooting film and taking my time with the photos after development. I built this app to bring a little of that pleasure to the phone: pick a frame, try a different tone, and look back at the original.
+The charcoal interface pairs F5.6 lettering with a geometric M icon. Requires an ARM64 phone running Android 10 or later. The interface is available in English, Traditional Chinese, Simplified Chinese, and Japanese. [GitHub release page](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.3.3)
 
 ## 繁體中文
 
-### Leica M Darkroom｜手機裡的離線暗房
+### 把底片攝影的習慣帶到手機上
 
-從相簿匯入一張照片，試試以 Leica M9 為靈感的色調，或用 MONOPAN 黑白重新看一次光影。五種影調分別是 FAST、HIGH、FULL、LUT 和 MONO。調好暗角，切回原圖比較，滿意後就另存一份。整個過程都在手機上完成，可離線使用。
+**徠卡 M 暗房（Leica M Darkroom）** 是一款離線運作的 Android 照片編輯與 RAW 顯影 App。它從 Leica M9 的 CCD 色彩取材。我喜歡那種明亮卻有分寸的色彩，尤其是散步時拍到的招牌、窗邊自然光下的膚色，以及巷子裡仍保有層次的陰影。
 
-1.1.0 採用炭黑介面、F5.6 字體及全新的幾何 M 圖示。支援英語、繁體中文、簡體中文和日語，適用於 Android 10 以上的 ARM64 手機。
+我是 Marvin，從 1990 年代末就開始做遊戲開發，後來也參與過新浪微博第三方客戶端 Weico 的開發與介面設計。拍底片一直是我的興趣。做這款 App，是想把拍完之後慢慢挑照片、仔細拿捏光影和色調的樂趣，也帶到手機上。
 
-### 關於開發者
+- **M9 色彩與黑白顯影。** 內建 M9 快速、高畫質、完整三種模式，以及日光色表和 MONOPAN 黑白。M9 色彩模型直接在手機上運算，從顯影到輸出都能離線完成，照片無須上傳。
+- **匯入多種相機 RAW。** 可從 Android 的檔案選取器開啟 RAW，也能匯入 JPEG、PNG。RAW 解碼已用 DNG、ARW、NEF、CR2、CR3、RAF、RW2 和 ORF 樣本驗證。實際相容性依相機機型與壓縮方式而異。
+- **載入自訂 LUT，試不同的底片色調。** 在主畫面選 **LUT → 載入 .cube**，即可把適用於 sRGB 照片的 3D LUT 套用到預覽和輸出。想試底片模擬，可以從這組開始。[下載 xMosaique 18 款 LUT（ZIP）](https://xmosaique.com/assets/luts/xmosaique-luts.zip)
+- **裁切與基本校正。** 支援自由裁切、1:1、4:5 和 16:9，也能調整曝光、對比、亮部、陰影、色溫、色偏、飽和度、銳利度和紋理。需要時可加一點柔光或暗角。
+- **對照原圖，保留編輯紀錄。** 隨時切換原圖與效果，完成後另存副本，保留原始照片。可從歷史圖庫重新開啟專案，接著上次的進度修圖。
 
-我是 Marvin，從 1990 年代末就開始做遊戲開發。後來也參與過新浪微博第三方客戶端 Weico 的開發與介面設計。我喜歡拍底片，也喜歡沖洗之後慢慢看照片的過程。做這個 App，是想把選一張照片、試一點色調、再回頭看原圖的樂趣，帶回手機裡。
+介面採用炭黑底色、F5.6 字體和幾何 M 圖示。適用於 Android 10 以上的 ARM64 手機。介面支援繁體中文、簡體中文、日文和英文。[GitHub 版本頁](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.3.3)
 
 ## 日本語
 
-### Leica M Darkroom｜スマートフォンの中の暗室
+### フィルム写真の楽しみを、スマートフォンでも
 
-アルバムから写真を一枚選び、ライカM9の色合いをヒントにした仕上がりや、MONOPAN風のモノクロを試せるAndroidアプリです。FAST、HIGH、FULL、LUT、MONOの5つのモードを搭載。周辺減光を調整し、元の写真と見比べてから、仕上がりを別のファイルとして保存できます。写真の処理はすべて端末内で行います。
+**ライカM ダークルーム（Leica M Darkroom）** は、オフラインで写真編集とRAW現像ができるAndroidアプリです。色作りの出発点は、Leica M9のCCDが生み出す色合いです。散歩の途中で見かけた看板の色、窓辺の自然光で撮った人の肌、路地の陰に残る階調。そんな写真の色が好きで、このアプリを作りました。
 
-バージョン1.1.0では、チャコールブラックの画面にF5.6書体を採用し、Mをかたどったアイコンも新しくしました。英語、繁体字中国語、簡体字中国語、日本語に対応。Android 10以降のARM64端末で使えます。
+Marvinです。90年代の終わり頃からゲーム開発に携わり、その後は新浪微博（Sina Weibo）のサードパーティークライアント「Weico」の開発や画面設計にも参加しました。フィルムで撮るのは今も好きです。撮り終えた写真をゆっくり選び、一枚ずつ明るさや色を整えていく。あの時間をスマートフォンでも楽しみたいと思いました。
 
-### 開発者について
+- **M9の色合いとモノクロ現像。** M9の高速・高画質・フルの3モードに加え、デイライトLUTとMONOPANのモノクロを搭載。内蔵の色変換モデルは端末上で動作し、写真をアップロードせずに現像から書き出しまで行えます。
+- **さまざまなカメラのRAWを読み込み。** Androidのファイル選択画面からRAW、JPEG、PNGを開けます。RAWはDNG、ARW、NEF、CR2、CR3、RAF、RW2、ORFのサンプルでデコードを確認しています。対応状況は機種や圧縮方式によって異なります。
+- **お好みのLUTでフィルム調に。** ホーム画面の **LUT → .cube を読み込む** から、sRGB向けの3D LUTをプレビューと書き出し画像に適用できます。フィルム調の仕上がりを試すなら、こちらのセットがおすすめです。[xMosaiqueのLUT 18種をダウンロード（ZIP）](https://xmosaique.com/assets/luts/xmosaique-luts.zip)
+- **切り抜きと基本補正。** 自由比率、1:1、4:5、16:9の切り抜きに対応。露出、コントラスト、ハイライト、シャドウ、色温度、色かぶり、彩度、シャープネス、テクスチャを調整でき、ソフトライトや周辺減光も加えられます。
+- **元画像と見比べ、あとから編集を再開。** 編集中は元画像と仕上がりを切り替えられます。仕上げた写真はコピーとして保存でき、編集履歴からプロジェクトを開いて続きを調整できます。
 
-Marvinです。90年代の終わり頃からゲーム開発に携わり、その後は新浪微博（Sina Weibo）のサードパーティークライアント「Weico」の開発や画面設計にも参加しました。フィルムで写真を撮って、現像した一枚をゆっくり眺めるのが好きです。色を少し変えては元の写真を見返す。そんな時間をスマートフォンでも楽しみたくて、このアプリを作りました。
+チャコールブラックの画面に、F5.6書体とMをかたどったアイコンを採用しています。Android 10以降のARM64端末に対応。表示言語は日本語、英語、繁体字中国語、簡体字中国語です。[GitHubのリリースページ](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.3.3)
 
 ## Releases · リリース · 版本發布
 
