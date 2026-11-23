@@ -1,3 +1,22 @@
+
+# Leica M Darkroom
+
+### 📥 Latest Release — v1.3.3
+
+[![Download APK](https://img.shields.io/badge/Download-APK%20v1.3.3-brightgreen?style=for-the-badge&logo=android)](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.3.3/Leica-M-Darkroom-1.3.3-arm64.apk)
+
+**[⬇️ Download Leica M Darkroom v1.3.3 APK](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.3.3/Leica-M-Darkroom-1.3.3-arm64.apk)**
+
+Android 10+ · ARM64 · 23.8 MB
+
+[Release Notes](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.3.3) · [All Releases](https://github.com/marvinsir/leica-m-darkroom/releases)
+
+---
+
+[English](#english) · [繁體中文](#繁體中文) · [日本語](#日本語)
+
+## English
+
 # Leica M Darkroom
 
 [English](#english) · [繁體中文](#繁體中文) · [日本語](#日本語)
