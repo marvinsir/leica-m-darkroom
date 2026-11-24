@@ -1,15 +1,19 @@
 
 # Leica M Darkroom
 
-### 📥 Latest Release — v1.3.3
+### 📥 Latest Release — v1.3.4
 
-[![Download APK](https://img.shields.io/badge/Download-APK%20v1.3.3-brightgreen?style=for-the-badge&logo=android)](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.3.3/Leica-M-Darkroom-1.3.3-arm64.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK%20v1.3.4-brightgreen?style=for-the-badge&logo=android)](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.3.4/Leica-M-Darkroom-1.3.4-arm64.apk)
 
-**[⬇️ Download Leica M Darkroom v1.3.3 APK](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.3.3/Leica-M-Darkroom-1.3.3-arm64.apk)**
+**[⬇️ Download Leica M Darkroom v1.3.4 APK](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.3.4/Leica-M-Darkroom-1.3.4-arm64.apk)**
 
-Android 10+ · ARM64 · 23.8 MB
+Android 10+ · ARM64 · 26.4 MB
 
-[Release Notes](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.3.3) · [All Releases](https://github.com/marvinsir/leica-m-darkroom/releases)
+**Film & Mono Collection** adds eight built-in DAEDAL presets: six color and two monochrome.
+
+**Upgrade note**. v1.3.4 uses a new signing certificate. An in-place update from v1.3.3 requires signing with the previous key.
+
+[Release Notes](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.3.4) · [Source ZIP](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.3.4/Leica-M-Darkroom-1.3.4-source.zip) · [All Releases](https://github.com/marvinsir/leica-m-darkroom/releases)
 
 ---
 
@@ -35,7 +39,7 @@ I’m Marvin. I started working in game development in the late 1990s and later 
 - **Crop and make basic corrections.** Crop freely or choose 1:1, 4:5, or 16:9. Adjust exposure, contrast, highlights, shadows, temperature, tint, saturation, sharpness, and texture. Add soft light or a vignette when the photo calls for it.
 - **Compare with the original and pick up where you left off.** Switch between the original and the edited preview, save a separate copy, or reopen a project from your editing history.
 
-The charcoal interface pairs F5.6 lettering with a geometric M icon. Requires an ARM64 phone running Android 10 or later. The interface is available in English, Traditional Chinese, Simplified Chinese, and Japanese. [GitHub release page](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.3.3)
+The charcoal interface pairs F5.6 lettering with a geometric M icon. Requires an ARM64 phone running Android 10 or later. The interface is available in English, Traditional Chinese, Simplified Chinese, and Japanese. [GitHub release page](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.3.4)
 
 ## 繁體中文
 
@@ -51,7 +55,7 @@ The charcoal interface pairs F5.6 lettering with a geometric M icon. Requires an
 - **裁切與基本校正。** 支援自由裁切、1:1、4:5 和 16:9，也能調整曝光、對比、亮部、陰影、色溫、色偏、飽和度、銳利度和紋理。需要時可加一點柔光或暗角。
 - **對照原圖，保留編輯紀錄。** 隨時切換原圖與效果，完成後另存副本，保留原始照片。可從歷史圖庫重新開啟專案，接著上次的進度修圖。
 
-介面採用炭黑底色、F5.6 字體和幾何 M 圖示。適用於 Android 10 以上的 ARM64 手機。介面支援繁體中文、簡體中文、日文和英文。[GitHub 版本頁](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.3.3)
+介面採用炭黑底色、F5.6 字體和幾何 M 圖示。適用於 Android 10 以上的 ARM64 手機。介面支援繁體中文、簡體中文、日文和英文。[GitHub 版本頁](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.3.4)
 
 ## 日本語
 
@@ -67,7 +71,7 @@ Marvinです。90年代の終わり頃からゲーム開発に携わり、その
 - **切り抜きと基本補正。** 自由比率、1:1、4:5、16:9の切り抜きに対応。露出、コントラスト、ハイライト、シャドウ、色温度、色かぶり、彩度、シャープネス、テクスチャを調整でき、ソフトライトや周辺減光も加えられます。
 - **元画像と見比べ、あとから編集を再開。** 編集中は元画像と仕上がりを切り替えられます。仕上げた写真はコピーとして保存でき、編集履歴からプロジェクトを開いて続きを調整できます。
 
-チャコールブラックの画面に、F5.6書体とMをかたどったアイコンを採用しています。Android 10以降のARM64端末に対応。表示言語は日本語、英語、繁体字中国語、簡体字中国語です。[GitHubのリリースページ](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.3.3)
+チャコールブラックの画面に、F5.6書体とMをかたどったアイコンを採用しています。Android 10以降のARM64端末に対応。表示言語は日本語、英語、繁体字中国語、簡体字中国語です。[GitHubのリリースページ](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.3.4)
 
 
 ## Recommended LUTs · 推薦色表 · おすすめLUT
