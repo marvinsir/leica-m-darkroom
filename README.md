@@ -69,6 +69,19 @@ Marvinです。90年代の終わり頃からゲーム開発に携わり、その
 
 チャコールブラックの画面に、F5.6書体とMをかたどったアイコンを採用しています。Android 10以降のARM64端末に対応。表示言語は日本語、英語、繁体字中国語、簡体字中国語です。[GitHubのリリースページ](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.3.3)
 
+
+## Recommended LUTs · 推薦色表 · おすすめLUT
+
+Download these files from their creators, unzip if needed, then choose **LUT → Load .cube** in the app. For a photo, choose a LUT intended for the color space of the image.  
+從作者頁下載，解壓後在 App 選 **LUT → 載入 .cube**。照片請選適合其色彩空間的色表。  
+配布元からダウンロードし、必要に応じて解凍して **LUT → .cube を読み込む** で選択してください。写真の色空間に合ったLUTをお使いください。
+
+| Collection | Looks and download |
+| --- | --- |
+| **DAEDAL Film & Mono** | Stock 250D, Stock 500T, Portrait 400, Reversal 100, Expired, Home Movie, Mono Silver and Mono Contrast. The linked archive contains six color and two monochrome 33-point LUTs for Rec.709 under CC0 1.0. For sRGB photos in Leica M Darkroom v1.3.4, choose the built-in presets to use the app’s Rec.709 conversion. [Creator page](https://daedal.art/resources/film-and-mono-pack/) · [Original ZIP](https://github.com/luciansofronie/daedal-downloads/releases/download/packs-v1/DAEDAL_Film_and_Mono_Pack.zip) |
+| **slay Cinematic LUTs** | Amber, Fade, Neon, Film and Portrait. Five 33-point .cube looks by slay, licensed CC BY 4.0 with attribution. [Creator page and license](https://github.com/slaycamera/luts) · [Individual .cube downloads](https://github.com/slaycamera/luts/tree/main/luts) |
+| **xMosaique LUTs** | 18 creative LUTs to try with photos. [Creator page](https://xmosaique.com/) · [ZIP download](https://xmosaique.com/assets/luts/xmosaique-luts.zip) |
+
 ## Releases · リリース · 版本發布
 
 [GitHub Releases](https://github.com/marvinsir/leica-m-darkroom/releases)
