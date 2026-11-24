@@ -80,7 +80,7 @@ Download these files from their creators, unzip if needed, then choose **LUT →
 | --- | --- |
 | **DAEDAL Film & Mono** | Stock 250D, Stock 500T, Portrait 400, Reversal 100, Expired, Home Movie, Mono Silver and Mono Contrast. The linked archive contains six color and two monochrome 33-point LUTs for Rec.709 under CC0 1.0. For sRGB photos in Leica M Darkroom v1.3.4, choose the built-in presets to use the app’s Rec.709 conversion. [Creator page](https://daedal.art/resources/film-and-mono-pack/) · [Original ZIP](https://github.com/luciansofronie/daedal-downloads/releases/download/packs-v1/DAEDAL_Film_and_Mono_Pack.zip) |
 | **slay Cinematic LUTs** | Amber, Fade, Neon, Film and Portrait. Five 33-point .cube looks by slay, licensed CC BY 4.0 with attribution. [Creator page and license](https://github.com/slaycamera/luts) · [Individual .cube downloads](https://github.com/slaycamera/luts/tree/main/luts) |
-| **xMosaique LUTs** | 18 creative LUTs to try with photos. [Creator page](https://xmosaique.com/) · [ZIP download](https://xmosaique.com/assets/luts/xmosaique-luts.zip) |
+| **xMosaique LUTs** | 18 creative LUTs for Rec.709 or sRGB. The creator marks the applicable CC BY-NC 4.0 or MIT license on each look. [Creator's LUT download page](https://xmosaique.com/luts/) · [ZIP download](https://xmosaique.com/assets/luts/xmosaique-luts.zip) |
 
 ## Releases · リリース · 版本發布
 
