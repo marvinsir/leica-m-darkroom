@@ -15,6 +15,13 @@ Android 10+ · ARM64 · 26.4 MB
 
 [Release Notes](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.3.4) · [Source ZIP](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.3.4/Leica-M-Darkroom-1.3.4-source.zip) · [All Releases](https://github.com/marvinsir/leica-m-darkroom/releases)
 
+## v1.3.4 Posters · 宣傳圖 · 紹介画像
+
+| English | 繁體中文 | 日本語 |
+| --- | --- | --- |
+| [<img src="https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.3.4/Leica-M-Darkroom-v1.3.4-Full-en.png" alt="Leica M Darkroom v1.3.4 English poster" width="240">](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.3.4/Leica-M-Darkroom-v1.3.4-Full-en.png) | [<img src="https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.3.4/Leica-M-Darkroom-v1.3.4-Full-zh-TW.png" alt="Leica M Darkroom v1.3.4 繁體中文宣傳圖" width="240">](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.3.4/Leica-M-Darkroom-v1.3.4-Full-zh-TW.png) | [<img src="https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.3.4/Leica-M-Darkroom-v1.3.4-Full-ja.png" alt="Leica M Darkroom v1.3.4 日本語の紹介画像" width="240">](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.3.4/Leica-M-Darkroom-v1.3.4-Full-ja.png) |
+| [Full-size PNG](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.3.4/Leica-M-Darkroom-v1.3.4-Full-en.png) | [原尺寸 PNG](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.3.4/Leica-M-Darkroom-v1.3.4-Full-zh-TW.png) | [原寸 PNG](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.3.4/Leica-M-Darkroom-v1.3.4-Full-ja.png) |
+
 ---
 
 [English](#english) · [繁體中文](#繁體中文) · [日本語](#日本語)
