@@ -1,26 +1,24 @@
 # Leica M Darkroom
 
-## Download v1.4.9
+## Download v1.4.16 · 最新版本 · 最新版
 
-**[Download the Android APK](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-arm64.apk)** · Android 10+ · ARM64
+**[Download the Android APK](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.16/Leica-M-Darkroom-1.4.16-arm64.apk)** · Android 10+ · ARM64
 
-[Release notes](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.4.9) · [Buildable source ZIP](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-source.zip) · [User guide / Wiki](https://github.com/marvinsir/leica-m-darkroom/wiki) · [All releases](https://github.com/marvinsir/leica-m-darkroom/releases)
+[Release notes](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.4.16) · [Buildable source ZIP](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.16/Leica-M-Darkroom-1.4.16-source.zip) · [Complete feature guide / 完整功能 / 全機能](https://github.com/marvinsir/leica-m-darkroom/wiki/v1.4.16-Features) · [Wiki](https://github.com/marvinsir/leica-m-darkroom/wiki) · [All releases](https://github.com/marvinsir/leica-m-darkroom/releases)
 
-**New in v1.4.9** · Export at source resolution in every development mode, allow proportional upscaling, or set exact dimensions. Retry at standard size if needed.
+**v1.4.16 highlights** · M9 FULL adds Daylight, Overcast, Warm Light and a three-way Mix. Choose from three depth models for bokeh, use manual RAW white balance, or try M10-style LUTs and adaptive color.
 
-**1.4.9 新功能** · 所有顯影模式皆可按原片解析度輸出，並可等比例放大或指定寬高。大圖輸出失敗時可用標準尺寸重試。
+**v1.4.16 功能重點** · M9 FULL 加入日光、陰天、暖光和三種色調混合。可選三款模型做景深虛化，也可手動校正 RAW 白平衡，或使用 M10 風格色表與自適應色彩。
 
-**v1.4.9の新機能** · すべての現像モードで元画像の解像度で書き出せます。縦横比を保った拡大や幅・高さの指定にも対応します。
+**v1.4.16 の主な機能** · M9 FULL にデイライト・曇天・暖色光と3つの色調を混ぜる機能を追加。3種類の深度モデルを使ったボケ、RAW の手動ホワイトバランス、M10 風 LUT と自動色調整にも対応します。
 
-The v1.4.9 APK shares the v1.4.1 signing certificate and can update that build in place. To keep projects from a build signed with a different key, keep your existing installation until you have an APK signed with that key.
-
-## v1.4.9 Posters · 宣傳圖 · 紹介画像
+## v1.4.16 Posters · 宣傳圖 · 紹介画像
 
 | English | 繁體中文 | 日本語 |
 | --- | --- | --- |
-| [<img src="https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Poster-en-VI.png" alt="Leica M Darkroom v1.4.9 English poster" width="240">](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Poster-en-VI.png) | [<img src="https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Poster-zh-TW-VI.png" alt="Leica M Darkroom v1.4.9 繁體中文宣傳圖" width="240">](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Poster-zh-TW-VI.png) | [<img src="https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Poster-ja-VI.png" alt="Leica M Darkroom v1.4.9 日本語の紹介画像" width="240">](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Poster-ja-VI.png) |
+| [<img src="https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.16/Leica-M-Darkroom-1.4.16-Poster-en.jpg" alt="English poster" width="260">](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.16/Leica-M-Darkroom-1.4.16-Poster-en.jpg) | [<img src="https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.16/Leica-M-Darkroom-1.4.16-Poster-zh-TW.jpg" alt="繁體中文海報" width="260">](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.16/Leica-M-Darkroom-1.4.16-Poster-zh-TW.jpg) | [<img src="https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.16/Leica-M-Darkroom-1.4.16-Poster-ja.jpg" alt="日本語ポスター" width="260">](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.16/Leica-M-Darkroom-1.4.16-Poster-ja.jpg) |
 
-[Download the three-language posters and copy (ZIP)](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Campaign-VI.zip)
+[Download all three posters / 三語海報下載 / 3言語版をダウンロード（ZIP）](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.16/Leica-M-Darkroom-1.4.16-Posters.zip)
 
 [English](#english) · [繁體中文](#繁體中文) · [日本語](#日本語)
 
@@ -36,11 +34,12 @@ I’m Marvin. I started working in game development in the late 1990s and later 
 - **M9-inspired color and monochrome.** Choose M9 Fast, High, or Full, or use the built-in Daylight LUT or MONOPAN black-and-white mode. The bundled color models run directly on your phone. You can develop and export photos offline without uploading them.
 - **Import RAW files from a range of cameras.** Open RAW, JPEG, and PNG files through Android’s file picker. The RAW decoder was tested with samples in DNG, ARW, NEF, CR2, CR3, RAF, RW2, and ORF. Compatibility depends on the camera model and compression.
 - **Load your own LUTs for film-inspired looks.** Choose **LUT → Load .cube** on the home screen to apply an sRGB-compatible 3D LUT to previews and exports. The app also includes eight DAEDAL Film & Mono presets. [Download xMosaique’s 18 LUTs (ZIP)](https://xmosaique.com/assets/luts/xmosaique-luts.zip)
+- **RAW white balance and depth-based bokeh.** Use light presets, Kelvin input or a gray eyedropper. Choose Depth Anything V2 Small, DA3 Small or the optional DA3 MONO Large model for selective focus and bokeh. [Feature guide](https://github.com/marvinsir/leica-m-darkroom/wiki/v1.4.16-Features#english)
 - **Crop and make basic corrections.** Crop freely or choose 1:1, 4:5, or 16:9, and rotate or straighten the frame. Adjust exposure, highlights, shadows, color, sharpness and texture, plus contrast, blacks, midtones, whites and local contrast for color and B&W photos. Add soft light or a vignette when the photo calls for it.
 - **Zoom, compare and undo.** Pinch to inspect detail, switch to the original, step back through edits, or reopen a project from History.
 - **Original-resolution and custom exports.** Reopen the source and apply your edits at its decoded resolution. Set a long edge or exact width and height. Choose proportional upscaling, crop, black borders or stretch. Custom dimensions support up to 64 MP and 16,384 px per side, subject to device memory and decoding. Standard-size retry is available for single photos and failed frames in a batch.
 
-The charcoal interface pairs F5.6 lettering with a geometric M icon. Requires an ARM64 phone running Android 10 or later. The interface is available in English, Traditional Chinese, Simplified Chinese, and Japanese. [GitHub release page](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.4.9)
+The charcoal interface pairs F5.6 lettering with a geometric M icon. Requires an ARM64 phone running Android 10 or later. The interface is available in English, Traditional Chinese, Simplified Chinese, and Japanese. [GitHub release page](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.4.16)
 
 ## 繁體中文
 
@@ -54,11 +53,12 @@ The charcoal interface pairs F5.6 lettering with a geometric M icon. Requires an
 - **M9 色彩與黑白顯影。** 內建 M9 快速、高畫質、完整三種模式，以及日光色表和 MONOPAN 黑白。M9 色彩模型直接在手機上運算，從顯影到輸出都能離線完成，照片無須上傳。
 - **匯入多種相機 RAW。** 可從 Android 的檔案選取器開啟 RAW，也能匯入 JPEG、PNG。RAW 解碼已用 DNG、ARW、NEF、CR2、CR3、RAF、RW2 和 ORF 樣本驗證。實際相容性依相機機型與壓縮方式而異。
 - **載入自訂 LUT，試不同的底片色調。** 在主畫面選 **LUT → 載入 .cube**，即可把適用於 sRGB 照片的 3D LUT 套用到預覽和輸出。App 另有八款 DAEDAL Film & Mono 內建色表。[下載 xMosaique 18 款 LUT（ZIP）](https://xmosaique.com/assets/luts/xmosaique-luts.zip)
+- **RAW 白平衡與景深虛化。** 可使用光源預設、K 值或灰點滴管。可選 Depth Anything V2 Small、DA3 Small，或另行下載 DA3 MONO Large，調整焦點和散景。[功能指南](https://github.com/marvinsir/leica-m-darkroom/wiki/v1.4.16-Features#繁體中文)
 - **裁切與基本校正。** 支援自由裁切、1:1、4:5 和 16:9，可自由旋轉、拉正，可調整曝光、亮部、陰影、色彩、銳利度和紋理，並為彩色及黑白照片調整對比、黑位、中間調、白位與局部反差。需要時可加一點柔光或暗角。
 - **縮放、對照與回退。** 雙指縮放檢查細節，切換原圖比對，逐步回退，或從歷史圖庫繼續編修。
 - **原片解析度與自訂輸出。** 重新讀取原片並套用編輯，可設定長邊或指定寬高，再選擇等比例縮放、裁切、補黑邊或拉伸。自訂上限為 6400 萬像素、單邊 16,384 px，實際可用尺寸依手機記憶體及解碼而定。單張或批次中失敗的照片可改用標準尺寸重試。
 
-介面採用炭黑底色、F5.6 字體和幾何 M 圖示。適用於 Android 10 以上的 ARM64 手機。介面支援繁體中文、簡體中文、日文和英文。[GitHub 版本頁](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.4.9)
+介面採用炭黑底色、F5.6 字體和幾何 M 圖示。適用於 Android 10 以上的 ARM64 手機。介面支援繁體中文、簡體中文、日文和英文。[GitHub 版本頁](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.4.16)
 
 ## 日本語
 
@@ -72,11 +72,12 @@ Marvinです。90年代の終わり頃からゲーム開発に携わり、その
 - **M9の色合いとモノクロ現像。** M9の高速・高画質・フルの3モードに加え、デイライトLUTとMONOPANのモノクロを搭載。内蔵の色変換モデルは端末上で動作し、写真をアップロードせずに現像から書き出しまで行えます。
 - **さまざまなカメラのRAWを読み込み。** Androidのファイル選択画面からRAW、JPEG、PNGを開けます。RAWはDNG、ARW、NEF、CR2、CR3、RAF、RW2、ORFのサンプルでデコードを確認しています。対応状況は機種や圧縮方式によって異なります。
 - **お好みのLUTでフィルム調に。** ホーム画面の **LUT → .cube を読み込む** から、sRGB向けの3D LUTをプレビューと書き出し画像に適用できます。DAEDAL Film & Monoも8種類内蔵しています。[xMosaiqueのLUT 18種をダウンロード（ZIP）](https://xmosaique.com/assets/luts/xmosaique-luts.zip)
+- **RAW ホワイトバランスと被写界深度。** 光源プリセット、色温度（K）、グレースポイトに対応。Depth Anything V2 Small、DA3 Small、追加の DA3 MONO Large から選び、ピントとボケを調整できます。[機能ガイド](https://github.com/marvinsir/leica-m-darkroom/wiki/v1.4.16-Features#日本語)
 - **切り抜きと基本補正。** 自由比率、1:1、4:5、16:9の切り抜きや、自由回転、傾き補正に対応。露出、ハイライト、シャドウ、色、シャープネス、質感に加え、カラー・白黒のコントラスト、黒レベル、中間調、白レベル、局所コントラストを調整でき、ソフトライトや周辺減光も加えられます。
 - **拡大・比較・取り消し。** ピンチで細部を確認し、元画像と見比べ、編集を一段ずつ取り消せます。履歴から作業を再開できます。
 - **元画像の解像度とサイズ指定。** 元ファイルを読み直して編集を反映します。長辺や幅・高さの指定、縦横比を保つ拡大縮小、切り抜き、黒い余白、引き伸ばしに対応。サイズ指定時は最大6400万画素、各辺16,384 pxまでで、端末のメモリやデコードに左右されます。一括書き出しでは失敗した分だけ標準サイズで再試行できます。
 
-チャコールブラックの画面に、F5.6書体とMをかたどったアイコンを採用しています。Android 10以降のARM64端末に対応。表示言語は日本語、英語、繁体字中国語、簡体字中国語です。[GitHubのリリースページ](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.4.9)
+チャコールブラックの画面に、F5.6書体とMをかたどったアイコンを採用しています。Android 10以降のARM64端末に対応。表示言語は日本語、英語、繁体字中国語、簡体字中国語です。[GitHubのリリースページ](https://github.com/marvinsir/leica-m-darkroom/releases/tag/v1.4.16)
 
 
 ## Recommended LUTs · 推薦色表 · おすすめLUT
