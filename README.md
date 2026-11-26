@@ -18,9 +18,9 @@ The v1.4.9 APK shares the v1.4.1 signing certificate and can update that build i
 
 | English | 繁體中文 | 日本語 |
 | --- | --- | --- |
-| [<img src="https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Poster-en.png" alt="Leica M Darkroom v1.4.9 English poster" width="240">](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Poster-en.png) | [<img src="https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Poster-zh-TW.png" alt="Leica M Darkroom v1.4.9 繁體中文宣傳圖" width="240">](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Poster-zh-TW.png) | [<img src="https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Poster-ja.png" alt="Leica M Darkroom v1.4.9 日本語の紹介画像" width="240">](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Poster-ja.png) |
+| [<img src="https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Poster-en-VI.png" alt="Leica M Darkroom v1.4.9 English poster" width="240">](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Poster-en-VI.png) | [<img src="https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Poster-zh-TW-VI.png" alt="Leica M Darkroom v1.4.9 繁體中文宣傳圖" width="240">](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Poster-zh-TW-VI.png) | [<img src="https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Poster-ja-VI.png" alt="Leica M Darkroom v1.4.9 日本語の紹介画像" width="240">](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Poster-ja-VI.png) |
 
-[Download the three-language posters and copy (ZIP)](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Campaign.zip)
+[Download the three-language posters and copy (ZIP)](https://github.com/marvinsir/leica-m-darkroom/releases/download/v1.4.9/Leica-M-Darkroom-1.4.9-Campaign-VI.zip)
 
 [English](#english) · [繁體中文](#繁體中文) · [日本語](#日本語)
 
